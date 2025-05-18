@@ -1,20 +1,18 @@
-# Let It Grow: Ecosystem for LibreOffice & SDLC
+# 📘 Ecosystem for LibreOffice & SDLC
 
-Welcome to my **living knowledge chronicle**, documenting a journey through:
-- LibreOffice scripting (VB → Python → UNO → OOODEV)
-- Personal tool building (custom calendars, automation)
-- Context-aware thinking in software development (SDLC)
-- Knowledge frameworks (KNIFE, SFIA, KM, DCMM)
+Welcome to my open knowledge ecosystem, where I document the evolution of tools, ideas, and insights around LibreOffice and software development.
 
-## 📖 Chapters
-- Coming soon: LiveLibreOffice experience, OOODEV test, and more
+This site serves as:
+- a public **journal** for daily discoveries,
+- a **framework** for structured chapters,
+- a **bridge** for LinkedIn, Patreon, YouTube stories.
 
-## 🔁 Connected Platforms
-- 🧠 LinkedIn Series – personal reflections & community feedback
-- 🎥 YouTube Episodes – narrated walkthroughs
-- 🤝 Patreon Support – behind-the-scenes access
+> 🌿 Live learning. Shared openly. Evolving consciously.
+
+## 📚 Chapters
+- [chapter_01_ooodev.md](chapters/chapter_01_ooodev.md)
+
+## 🗓️ Chronicle
+- [2025-05-18](chronicle/2025/202505/20250518.md)
 
 ---
-
-Everything here is open-source. Fork the repo, use the templates, or just follow along.
-Let it grow 🌿
